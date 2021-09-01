@@ -1,0 +1,20 @@
+body {
+    padding:0;
+    margin:0;
+    background-color:rgb(92, 84, 84);
+}
+
+nav {
+    margin:0px;
+    padding:0px;
+}
+
+.social-icon  {
+    font-size:x-large;
+}
+
+.social-icon :hover {
+    font-size: xx-large;
+    color:rgb(36, 174, 199);
+}
+
