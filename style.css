@@ -1,12 +1,17 @@
 body {
     padding:0;
     margin:0;
-    background-color:rgb(92, 84, 84);
+    background-color:rgb(255, 20, 20);
 }
 
 nav {
     margin:0px;
     padding:0px;
+}
+
+#mainName :hover { 
+    font-weight: bolder;
+    color: crimson;
 }
 
 .social-icon  {
